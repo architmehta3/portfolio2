@@ -1,0 +1,21 @@
+-- import: package/base-layout as layout
+-- import: package/header as navbar
+
+-- layout.base-layout:
+
+--- navbar.header: 
+logo: $assets.files.images.logo.svg
+logoURL: /portfolio2
+header-item1: Home
+header-item1-link: /portfolio2/Home
+header-item1: About
+header-item1-link: /portfolio2/Home
+header-item1: Projects
+header-item1-link: /portfolio2/Home
+header-item1: Linkedin
+header-item1-link: /portfolio2/Home
+header-item1: Instagram
+header-item1-link: /portfolio2/Home
+
+
+-- end layout.base-layout
